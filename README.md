@@ -11,7 +11,7 @@ This demo runs in MATLAB, and has been tested on macOS Catalina.
 
 ### Run the demo ###
 1. Clone this repository.
-2. Run 
+2. Run main.m in demo_influence folder.
 
 
 **Dependencies**
