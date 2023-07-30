@@ -23,7 +23,7 @@ This demo demonstrates an example of computing the ``exact influence`` on the 2D
 1. Run main.m in demo_influence folder.
 
 ### Demo 2: Homography Estimation ###
-This demo demonstrates an example of computing the ``exact influence`` on a homography instance, which aligns two 2D images observing the same plane, given a set of feature correspondences between them. 
+This demo demonstrates an example of computing the ``exact influence`` on solving a homography instance for 20 feature correspondences.
 1. Run main.m in demo_homography_small folder.
 
 ### Demo 3: Large-Scale Homography Estimation ###
