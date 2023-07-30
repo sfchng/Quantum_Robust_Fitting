@@ -19,12 +19,16 @@ This repository contains the demo of a robust fitting approach which is based on
 This demo runs in MATLAB, and has been tested on macOS Catalina.
 
 ### Demo 1: 2D Line Fitting ###
-This demo showcases an example of fitting a 2D line to a set of 100 data points.
+This demo demonstrates an example of computing the ``exact influence`` on the 2D line fitting problem.
 1. Run main.m in demo_influence folder.
 
 ### Demo 2: Homography Estimation ###
-This demo showcases an example of estimating the homography that aligns two 2D images that observe the same plane, given a set of feature correspondences between two images. 
-1. Run main.m in demo_homography folder.
+This demo demonstrates an example of computing the ``exact influence`` on a homography instance, which aligns two 2D images observing the same plane, given a set of feature correspondences between them. 
+1. Run main.m in demo_homography_small folder.
+
+### Demo 3: Large-Scale Homography Estimation ###
+This demo demonstrates an example of computing the ``approximate influence`` on solving a large-scale homography instance for more than 200 feature correspondences.
+1. Run main.m in demo_homography_large folder.
    
 
 ### Dependencies ###
