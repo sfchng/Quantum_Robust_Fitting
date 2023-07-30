@@ -15,7 +15,6 @@
 ### About ###
 This repository contains the demo of a robust fitting approach which is based on "influence" as a measure of outlyingness.
 
-
 ### Getting Started ###
 This demo runs in MATLAB, and has been tested on macOS Catalina.
 
@@ -28,9 +27,8 @@ This demo showcases an example of estimating the homography that aligns two 2D i
 1. Run main.m in demo_homography folder.
    
 
-**Dependencies**
+### Dependencies ###
 - gurobi (https://www.gurobi.com) (optional)
-
 
 
 This demo is free for non-commercial academic use. Any commercial use is strictly prohibited without the authors' consent. Please acknowledge the authors by citing
