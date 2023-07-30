@@ -1,9 +1,16 @@
 # Quantum_Robust_Fitting
-This a demonstration program for Quantum Robust Fitting.
 
-Published in ACCV 2020.
+### [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Chin_Quantum_Robust_Fitting_ACCV_2020_paper.pdf) 
 
-[[Paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Chin_Quantum_Robust_Fitting_ACCV_2020_paper.pdf)
+[Tat-Jun Chin <sup>1</sup>], 
+[David Suter <sup>2</sup>], 
+[Shin-Fang Chng <sup>1</sup>], 
+[James Quach <sup>3</sup>].
+
+[<sup>1</sup>  Australian Institute for Machine Learning (AIML), University of Adelaide](https://www.adelaide.edu.au/aiml/), 
+[<sup>2</sup>  School of Computing and Security, Edith Cowan University]()
+[<sup>3</sup>  School of Physical Sciences, The University of Adelaide]()
+
 
 ### About ###
 This repository contains the demo of a robust fitting approach which is based on "influence" as a measure of outlyingness.
