@@ -1,4 +1,4 @@
-# Quantum_Robust_Fitting
+# Quantum Robust Fitting
 
 ### [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Chin_Quantum_Robust_Fitting_ACCV_2020_paper.pdf) 
 
