@@ -13,7 +13,7 @@
 
 
 ### About ###
-This repository contains the demo of a robust fitting approach which is based on "influence" as a measure of outlyingness.
+This is the official repository for Quantum Robust Fitting.
 
 ### Getting Started ###
 This demo runs in MATLAB, and has been tested on macOS Catalina.
