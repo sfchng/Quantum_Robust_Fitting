@@ -48,8 +48,8 @@ We provide the results of large-scale homography estimation for a ``church`` ins
    <img src="misc/fig1.png" width="400" height="300">
 
 
-
-This demo is free for non-commercial academic use. Any commercial use is strictly prohibited without the authors' consent. Please acknowledge the authors by citing
+## 👩‍💻 Citation ##
+This code is for non-commercial use. If you find our work useful in your research please consider citing our paper:
  
  ```
   @inproceedings{chin2020quantum,
