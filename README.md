@@ -16,7 +16,7 @@
 This is the official repository for Quantum Robust Fitting.
 
 ### Getting Started ###
-This demo runs in MATLAB, and has been tested on macOS Catalina.
+This demo runs in MATLAB, and has been tested on macOS Catalina and Ventura.
 
 ### Demo 1: 2D Line Fitting ###
 This demo demonstrates an example of computing the ``exact influence`` on the 2D line fitting problem.
