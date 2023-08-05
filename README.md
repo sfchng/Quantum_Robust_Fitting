@@ -20,15 +20,15 @@ This demo runs in MATLAB, and has been tested on macOS Catalina and Ventura.
 
 ### Demo 1: 2D Line Fitting ###
 This demo demonstrates an example of computing the ``exact influence`` on the 2D line fitting problem.
-1. Run main.m in demo_influence folder.
+1. Run `main.m` in demo_influence folder.
 
 ### Demo 2: Homography Estimation ###
 This demo demonstrates an example of computing the ``exact influence`` on solving a homography instance for 20 feature correspondences.
-1. Run main.m in demo_homography_small folder.
+1. Run `main.m` in demo_homography_small folder.
 
 ### Demo 3: Large-Scale Homography Estimation ###
 This demo demonstrates an example of computing the ``approximate influence`` on solving a large-scale homography instance for more than 200 feature correspondences.
-1. Run main.m in demo_homography_large folder.
+1. Run `main.m` in demo_homography_large folder.
 
 
 ### Dependencies ###
