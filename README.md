@@ -36,7 +36,7 @@ This demo demonstrates an example of computing the ``approximate influence`` on 
 
 
 ### Reproducibility ###
-We provide the results of large-scale homography estimation for a church instance. If you wish to plot the results, please follow the steps below:
+We provide the results of large-scale homography estimation for a ``church`` instance. If you wish to plot the results, please follow the steps below:
 1. Download the results from the following link:
    https://drive.google.com/drive/folders/1_Z5Be2T78u2PQfWPL0_bl1uvUZlCfDMY?usp=sharing
    
