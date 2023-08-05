@@ -5,11 +5,11 @@ close all;
 num_runs = 8;
 num_sample_size = 100;
 num_pts = 516; % church dataset
-run_index = [1,2,3,4,5,6,7,8];  % DONT REMOVE! ORIGINAL ONE!
 delta_threshold = 0.3;
 
-result_path = '/Users/shinfang/Documents/PhD/Boolean_Function/MVG/Homography_Approx_Church/result_church/';
-dataset_path = '/Users/shinfang/Documents/PhD/Boolean_Function/MVG/Homography_Approx_Church/data/groundtruth/';
+
+result_path = 'output/accv_official/';
+dataset_path = 'data/christ_church/';
 
 % influence variable
 % column: sample size; row: ith point
@@ -22,12 +22,12 @@ influence = zeros(num_pts, num_runs);
 %% Nx1 variable for a sample
 
 % load file
-load (strcat(dataset_path, 'church_matches.mat'));
+load (strcat(dataset_path, 'matches.mat'));
 
-for i=1:size(run_index,2)
+for i=1:num_runs
     for j=1:num_sample_size
         % load .mat file
-        load (strcat(result_path,'vc_sample_size_', num2str(run_index(i)), '_loop_index_', num2str(j),'.mat'));
+        load (strcat(result_path,'vc_sample_size_', num2str(i), '_loop_index_', num2str(j),'.mat'));
         %fprintf('%d %d\n',i,j);
         
         % save point (264 pts)
