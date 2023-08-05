@@ -41,7 +41,11 @@ We provide the results of large-scale homography estimation for a church instanc
    https://drive.google.com/drive/folders/1_Z5Be2T78u2PQfWPL0_bl1uvUZlCfDMY?usp=sharing
 2. Place the data in `demo_homography_large/output` directory.
 3. Run `evaluate_approx_influence.m`. You will then obtain the following plots.
-   
+
+
+   <img src="fig1.png" width="250" height="200">
+   <img src="fig2.png" width="250" height="200">
+   <img src="fig3.png" width="250" height="200">
 
 
 This demo is free for non-commercial academic use. Any commercial use is strictly prohibited without the authors' consent. Please acknowledge the authors by citing
