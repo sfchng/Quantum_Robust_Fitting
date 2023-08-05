@@ -39,6 +39,7 @@ This demo demonstrates an example of computing the ``approximate influence`` on 
 We provide the results of large-scale homography estimation for a church instance. If you wish to plot the results, please follow the steps below:
 1. Download the results from the following link:
    https://drive.google.com/drive/folders/1_Z5Be2T78u2PQfWPL0_bl1uvUZlCfDMY?usp=sharing
+   
    Please note that you will find two results in the link: `accv_official.zip` contains the influence corresponding to the results in the paper, and  `run2.zip` contains the influence for a recent run.
 2. Place the data in `demo_homography_large/output` directory.
 3. Run `evaluate_approx_influence.m`. You will then obtain the following plots, 
