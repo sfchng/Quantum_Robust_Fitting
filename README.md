@@ -29,10 +29,15 @@ This demo demonstrates an example of computing the ``exact influence`` on solvin
 ### Demo 3: Large-Scale Homography Estimation ###
 This demo demonstrates an example of computing the ``approximate influence`` on solving a large-scale homography instance for more than 200 feature correspondences.
 1. Run main.m in demo_homography_large folder.
-   
+
 
 ### Dependencies ###
 - gurobi (https://www.gurobi.com) (optional)
+
+
+### Reproducibility ###
+
+
 
 
 This demo is free for non-commercial academic use. Any commercial use is strictly prohibited without the authors' consent. Please acknowledge the authors by citing
